@@ -1,0 +1,483 @@
+[
+  {
+    "id": "sample-001",
+    "name": "架空やおや 北のはたけ",
+    "genre": "grocery",
+    "prefecture": "北海道",
+    "city": "札幌市中央区",
+    "lat": 43.0548,
+    "lng": 141.3412,
+    "description": "近くの農家さんから届く野菜と、北海道産の乾物を並べる小さな八百屋。旬の食べ方もお店で教えてくれます。",
+    "rating": 4.6,
+    "reviews": 38,
+    "wantCount": 21,
+    "tags": [
+      "地元野菜",
+      "量り売り",
+      "駐車場あり"
+    ],
+    "ecoTags": [
+      "エコバッグ持参で5円引き"
+    ],
+    "reason": "畑の野菜を売るお店だから、畑を守るエネルギーを選ぶのが自然だと思いました。",
+    "story": null,
+    "photo": "https://images.unsplash.com/photo-1715603803444-d22ea0939876?auto=format&fit=crop&w=800&h=500&q=75",
+    "articleUrl": null,
+    "articles": [],
+    "isSample": true
+  },
+  {
+    "id": "sample-002",
+    "name": "架空ベーカリー こむぎ日和",
+    "genre": "cafe",
+    "prefecture": "宮城県",
+    "city": "仙台市青葉区",
+    "lat": 38.2668,
+    "lng": 140.8634,
+    "description": "国産小麦と天然酵母で焼く、ふだん使いのパン屋さん。朝7時の焼きたてを目当てに来るご近所さんが多いお店です。",
+    "rating": 4.8,
+    "reviews": 112,
+    "wantCount": 46,
+    "tags": [
+      "イートインあり",
+      "テイクアウト"
+    ],
+    "ecoTags": [
+      "パンの袋はくり返し使えます"
+    ],
+    "reason": "毎朝オーブンで電気をたくさん使うので、せめてその電気は気持ちよく選びたくて。",
+    "story": "毎朝4時からオーブンを動かすので、電気の使い方はずっと気になっていました。常連さんにハチドリ電力の話を聞いて、パンを焼く電気が子どもたちの未来の応援になるならと、その日のうちに申し込みました。",
+    "photo": "https://images.unsplash.com/photo-1568254183919-78a4f43a2877?auto=format&fit=crop&w=800&h=500&q=75",
+    "articleUrl": null,
+    "articles": [
+      {
+        "kind": "interview",
+        "source": "ハチドリ電力 インタビュー",
+        "title": "パンの香りと、電気の選び方。こむぎ日和の店主に聞きました",
+        "url": null,
+        "thumbnail": "https://images.unsplash.com/photo-1649675602217-416a4fafcecb?auto=format&fit=crop&w=640&h=400&q=75",
+        "lead": "朝4時から生地と向き合う店主に、パンづくりと電気のこと、地域のお客さんとのつながりについて聞きました。"
+      }
+    ],
+    "isSample": true
+  },
+  {
+    "id": "sample-003",
+    "name": "架空古着店 ひだまりクローゼット",
+    "genre": "goods",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "lat": 35.6462,
+    "lng": 139.6531,
+    "description": "70〜90年代の古着を中心に、リメイク品も扱うお店。サイズ直しの相談にものってくれます。",
+    "rating": 4.5,
+    "reviews": 64,
+    "wantCount": 18,
+    "tags": [
+      "リメイク",
+      "サイズ直し",
+      "買取あり"
+    ],
+    "ecoTags": [
+      "古着の回収ボックスあり"
+    ],
+    "reason": "古着は「長く使う」がテーマ。電気でも未来に負担をのこさない選び方をしたいです。",
+    "story": null,
+    "photo": "https://images.unsplash.com/photo-1624192647570-1131acc12ccf?auto=format&fit=crop&w=800&h=500&q=75",
+    "articleUrl": null,
+    "articles": [],
+    "isSample": true
+  },
+  {
+    "id": "sample-004",
+    "name": "架空カフェ 波止場のとまり木",
+    "genre": "cafe",
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "lat": 35.4418,
+    "lng": 139.6447,
+    "description": "港の見える窓ぎわ席が人気のカフェ。自家焙煎のコーヒーと、季節の焼き菓子をそろえています。",
+    "rating": 4.7,
+    "reviews": 89,
+    "wantCount": 52,
+    "tags": [
+      "Wi-Fiあり",
+      "電源あり",
+      "ペット可（テラス）"
+    ],
+    "ecoTags": [],
+    "reason": "お客さんに「なんでこの電気なの？」と聞かれたとき、ちゃんと話せるお店でいたいから。",
+    "story": "コーヒー豆の産地を訪ねたとき、気候の変化で収穫が減っていると農家さんから聞きました。「自分たちにもできることから始めたい」と考えて、まずはお店の電気を見直すことに。電気代の1%が社会活動に届く仕組みにも共感して、ハチドリ電力を選びました。",
+    "photo": "https://images.unsplash.com/photo-1746361747275-31c08d2c6d5e?auto=format&fit=crop&w=800&h=500&q=75",
+    "articleUrl": null,
+    "articles": [
+      {
+        "kind": "interview",
+        "source": "ハチドリ電力 インタビュー",
+        "title": "港町のカフェが、ハチドリ電力を選んだ理由",
+        "url": null,
+        "thumbnail": "https://images.unsplash.com/photo-1671011032412-aa9a4edbbee9?auto=format&fit=crop&w=640&h=400&q=75",
+        "lead": "一杯ずつハンドドリップで淹れる港町のカフェ。豆の仕入れから電気まで、「選ぶ」ことを大切にする理由を伺いました。"
+      }
+    ],
+    "isSample": true
+  },
+  {
+    "id": "sample-005",
+    "name": "架空の宿 やまびこ舎",
+    "genre": "stay",
+    "prefecture": "長野県",
+    "city": "松本市",
+    "lat": 36.2368,
+    "lng": 137.9662,
+    "description": "北アルプスを望む、全6室の小さな宿。夕食は地元の野菜を使った家庭料理です。",
+    "rating": 4.9,
+    "reviews": 47,
+    "wantCount": 33,
+    "tags": [
+      "素泊まり可",
+      "長期滞在歓迎"
+    ],
+    "ecoTags": [
+      "アメニティは持参をおすすめしています"
+    ],
+    "reason": "山の景色を見に来てくれる方のために、この景色が続く電気を使いたいと思いました。",
+    "story": "山の景色を見に来てくれるお客さんに、この景色をずっと楽しんでもらいたい。そう考えたとき、宿で使う電気から変えるのがいちばん自然でした。お客さんとの会話のきっかけにもなっています。",
+    "photo": "https://images.unsplash.com/photo-1764445274404-f2e14fd3f20c?auto=format&fit=crop&w=800&h=500&q=75",
+    "articleUrl": null,
+    "articles": [
+      {
+        "kind": "interview",
+        "source": "ハチドリ電力 インタビュー",
+        "title": "山の宿が、自然エネルギーに切り替えたわけ",
+        "url": null,
+        "thumbnail": "https://images.unsplash.com/photo-1761052877503-c76a2801ed5b?auto=format&fit=crop&w=640&h=400&q=75",
+        "lead": "山あいで宿を営むご夫婦に、雪解け水や森の恵みとともに暮らす日々と、電気を切り替えたきっかけを聞きました。"
+      }
+    ],
+    "isSample": true
+  },
+  {
+    "id": "sample-006",
+    "name": "架空書店 ことのは文庫",
+    "genre": "other",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "lat": 36.5632,
+    "lng": 136.6588,
+    "description": "新刊と古本がまざる、ちいさな本屋。月に一度、読書会をひらいています。",
+    "rating": 4.4,
+    "reviews": 29,
+    "wantCount": 12,
+    "tags": [
+      "古本あり",
+      "読書会"
+    ],
+    "ecoTags": [
+      "紙袋はリユースしています"
+    ],
+    "reason": "寄付先の一覧を読んで、応援したい活動がたくさんあったのが決め手でした。",
+    "story": null,
+    "photo": "https://images.unsplash.com/photo-1725951594360-beb8e490f485?auto=format&fit=crop&w=800&h=500&q=75",
+    "articleUrl": null,
+    "articles": [],
+    "isSample": true
+  },
+  {
+    "id": "sample-007",
+    "name": "架空ヘアサロン そよかぜ",
+    "genre": "salon",
+    "prefecture": "愛知県",
+    "city": "名古屋市中区",
+    "lat": 35.1662,
+    "lng": 136.9024,
+    "description": "一人ひとりの髪質に合わせたカットが得意な、席数3つのサロン。オーガニックのカラー剤も選べます。",
+    "rating": 4.6,
+    "reviews": 73,
+    "wantCount": 15,
+    "tags": [
+      "予約制",
+      "キッズOK"
+    ],
+    "ecoTags": [
+      "オーガニックカラー"
+    ],
+    "reason": "ドライヤーの電気も、髪を整える時間も、どうせなら誰かの役に立つほうがうれしいです。",
+    "story": null,
+    "photo": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?auto=format&fit=crop&w=800&h=500&q=75",
+    "articleUrl": null,
+    "articles": [],
+    "isSample": true
+  },
+  {
+    "id": "sample-008",
+    "name": "架空和菓子 もみじ庵",
+    "genre": "sweets",
+    "prefecture": "京都府",
+    "city": "京都市左京区",
+    "lat": 35.0328,
+    "lng": 135.7794,
+    "description": "季節ごとに変わる上生菓子と、どら焼きが看板の和菓子屋。お茶と一緒にいただける席もあります。",
+    "rating": 4.7,
+    "reviews": 58,
+    "wantCount": 27,
+    "tags": [
+      "イートインあり",
+      "手みやげ"
+    ],
+    "ecoTags": [
+      "経木の包装"
+    ],
+    "reason": "季節のお菓子をつくっていると、四季が変わっていくことが他人ごとではなくなりました。",
+    "story": "季節のお菓子をつくっていると、桜の咲く時期や栗のとれる時期が少しずつずれてきているのを感じます。四季を大切にするお店として、できることをしたいと思いました。",
+    "photo": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&w=800&h=500&q=75",
+    "articleUrl": null,
+    "articles": [
+      {
+        "kind": "interview",
+        "source": "ハチドリ電力 インタビュー",
+        "title": "季節のずれを感じる和菓子職人が、電気から始めたこと",
+        "url": null,
+        "thumbnail": "https://images.unsplash.com/photo-1582793988951-9aed5509eb97?auto=format&fit=crop&w=640&h=400&q=75",
+        "lead": "季節のお菓子をつくり続けて三十年。花の咲く時期の変化を肌で感じてきた職人が、電気から始めたことを語ります。"
+      }
+    ],
+    "isSample": true
+  },
+  {
+    "id": "sample-009",
+    "name": "架空食堂 まんぷく灯",
+    "genre": "cafe",
+    "prefecture": "大阪府",
+    "city": "大阪市北区",
+    "lat": 34.7034,
+    "lng": 135.4952,
+    "description": "日替わり定食が人気の、まちの食堂。ご飯のおかわりは自由です。",
+    "rating": 4.3,
+    "reviews": 141,
+    "wantCount": 24,
+    "tags": [
+      "定食",
+      "テイクアウト",
+      "子ども連れ歓迎"
+    ],
+    "ecoTags": [
+      "食べ残しゼロの小盛りあり"
+    ],
+    "reason": "常連さんがハチドリさんで、話を聞いて切り替えました。手続きもかんたんでしたよ。",
+    "story": null,
+    "photo": "https://images.unsplash.com/photo-1653220329192-ce4d725d352a?auto=format&fit=crop&w=800&h=500&q=75",
+    "articleUrl": null,
+    "articles": [],
+    "isSample": true
+  },
+  {
+    "id": "sample-010",
+    "name": "架空雑貨 みなと小箱",
+    "genre": "goods",
+    "prefecture": "兵庫県",
+    "city": "神戸市中央区",
+    "lat": 34.6912,
+    "lng": 135.1938,
+    "description": "神戸の作家さんの器やアクセサリーを集めたセレクト雑貨店。ギフト包装もしてくれます。",
+    "rating": 4.5,
+    "reviews": 36,
+    "wantCount": 19,
+    "tags": [
+      "作家もの",
+      "ギフト包装"
+    ],
+    "ecoTags": [
+      "簡易包装を選べます"
+    ],
+    "reason": "再エネを選ぶのが、特別なことじゃなく当たり前になってほしい。そのはじめの一歩です。",
+    "story": null,
+    "photo": "https://images.unsplash.com/photo-1599958681123-88cd5957db83?auto=format&fit=crop&w=800&h=500&q=75",
+    "articleUrl": null,
+    "articles": [],
+    "isSample": true
+  },
+  {
+    "id": "sample-011",
+    "name": "架空マルシェ 瀬戸のめぐみ",
+    "genre": "grocery",
+    "prefecture": "広島県",
+    "city": "広島市中区",
+    "lat": 34.3896,
+    "lng": 132.4572,
+    "description": "瀬戸内の生産者さんが集まる、週末のマルシェ。柑橘やお魚の加工品がそろいます。",
+    "rating": 4.6,
+    "reviews": 22,
+    "wantCount": 14,
+    "tags": [
+      "週末のみ",
+      "生産者直売"
+    ],
+    "ecoTags": [
+      "量り売りあり"
+    ],
+    "reason": "生産者さんと話すなかで、気候の変化が作物に出ていると知ったのがきっかけです。",
+    "story": null,
+    "photo": "https://images.unsplash.com/photo-1507598641400-ec3536ba81bc?auto=format&fit=crop&w=800&h=500&q=75",
+    "articleUrl": null,
+    "articles": [
+      {
+        "kind": "interview",
+        "source": "ハチドリ電力 インタビュー",
+        "title": "生産者と一緒に、瀬戸内の暮らしを守るマルシェ",
+        "url": null,
+        "thumbnail": "https://images.unsplash.com/photo-1611966577991-16a06d7dec39?auto=format&fit=crop&w=640&h=400&q=75",
+        "lead": "瀬戸内の柑橘農家さんと一緒にマルシェを続ける主宰者に、海と山を守るためにできることを伺いました。"
+      }
+    ],
+    "isSample": true
+  },
+  {
+    "id": "sample-012",
+    "name": "架空うどん さぬき日和",
+    "genre": "cafe",
+    "prefecture": "香川県",
+    "city": "高松市",
+    "lat": 34.3388,
+    "lng": 134.0488,
+    "description": "朝打ちの麺を、いりこだしで味わう讃岐うどんのお店。セルフ式で気軽に入れます。",
+    "rating": 4.4,
+    "reviews": 167,
+    "wantCount": 31,
+    "tags": [
+      "セルフ式",
+      "朝営業"
+    ],
+    "ecoTags": [
+      "割り箸ではなくお箸を使っています"
+    ],
+    "reason": "釜の火は毎日のこと。だからこそ、毎日のエネルギーから変えてみることにしました。",
+    "story": null,
+    "photo": "https://images.unsplash.com/photo-1618841557871-b4664fbf0cb3?auto=format&fit=crop&w=800&h=500&q=75",
+    "articleUrl": null,
+    "articles": [],
+    "isSample": true
+  },
+  {
+    "id": "sample-013",
+    "name": "架空カフェ ことり堂",
+    "genre": "cafe",
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "lat": 33.5843,
+    "lng": 130.3925,
+    "description": "オーガニックコーヒーと自家製スイーツが人気のカフェ。木のぬくもりを感じる、落ち着いた雰囲気の店内です。",
+    "rating": 4.7,
+    "reviews": 89,
+    "wantCount": 46,
+    "tags": [
+      "Wi-Fiあり",
+      "電源あり",
+      "ペット可"
+    ],
+    "ecoTags": [],
+    "reason": "せっかく電気を使うなら、未来のためになるほうを選びたいと思って切り替えました。",
+    "story": "お店を開くとき、内装の木材や食器はできるだけ長く使えるものを選びました。電気も同じように選びたいと思っていたところ、福岡にハチドリ電力があると知って切り替えました。お客さんから「うちも変えたよ」と聞くのがうれしいです。",
+    "photo": "https://images.unsplash.com/photo-1445116572660-236099ec97a0?auto=format&fit=crop&w=800&h=500&q=75",
+    "articleUrl": null,
+    "articles": [
+      {
+        "kind": "interview",
+        "source": "ハチドリ電力 インタビュー",
+        "title": "お客さんにも広がる「選ぶ」の輪。福岡のカフェ ことり堂",
+        "url": null,
+        "thumbnail": "https://images.unsplash.com/photo-1725976404931-84e8421d9710?auto=format&fit=crop&w=640&h=400&q=75",
+        "lead": "木の内装や器と同じように、電気も長く付き合えるものを。ことり堂の店主に、お店づくりで大切にしていることを聞きました。"
+      }
+    ],
+    "isSample": true
+  },
+  {
+    "id": "sample-014",
+    "name": "架空ネイル 花かんむり",
+    "genre": "salon",
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "lat": 33.5912,
+    "lng": 130.4174,
+    "description": "指先のケアを大切にする、プライベートネイルサロン。ハンドマッサージ付きのメニューが人気です。",
+    "rating": 4.8,
+    "reviews": 41,
+    "wantCount": 11,
+    "tags": [
+      "完全予約制",
+      "個室"
+    ],
+    "ecoTags": [
+      "低刺激のジェルを使用"
+    ],
+    "reason": "子どもが大きくなったときに、胸をはって「選んでたよ」と言えるようにしたくて。",
+    "story": null,
+    "photo": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&h=500&q=75",
+    "articleUrl": null,
+    "articles": [],
+    "isSample": true
+  },
+  {
+    "id": "sample-015",
+    "name": "架空ゲストハウス 糸島ひなた",
+    "genre": "stay",
+    "prefecture": "福岡県",
+    "city": "糸島市",
+    "lat": 33.5574,
+    "lng": 130.1968,
+    "description": "海まで歩いて3分のゲストハウス。共用キッチンで、旅人どうしの会話が生まれます。",
+    "rating": 4.9,
+    "reviews": 66,
+    "wantCount": 38,
+    "tags": [
+      "ドミトリー",
+      "個室あり",
+      "共用キッチン"
+    ],
+    "ecoTags": [
+      "ビーチクリーンに参加できます"
+    ],
+    "reason": "海で遊ぶ旅人さんが多い宿なので、海を守る活動に電気代が届くのがいいなと思いました。",
+    "story": "宿に来てくれる旅人さんの多くは、海が目当てです。その海を守る活動に電気代の一部が届くと知って、迷わず切り替えました。毎月のビーチクリーンにもお客さんと一緒に参加しています。",
+    "photo": "https://images.unsplash.com/photo-1752478521477-c10f21fb5282?auto=format&fit=crop&w=800&h=500&q=75",
+    "articleUrl": null,
+    "articles": [
+      {
+        "kind": "interview",
+        "source": "ハチドリ電力 インタビュー",
+        "title": "海を守りたい宿主が、ゲストと続けていること",
+        "url": null,
+        "thumbnail": "https://images.unsplash.com/photo-1594447449647-632c79ed2da0?auto=format&fit=crop&w=640&h=400&q=75",
+        "lead": "海まで歩いて3分のゲストハウス。毎月のビーチクリーンをゲストと続ける宿主に、糸島の暮らしと電気のことを聞きました。"
+      }
+    ],
+    "isSample": true
+  },
+  {
+    "id": "sample-016",
+    "name": "架空ジェラート 火の国ミルク",
+    "genre": "sweets",
+    "prefecture": "熊本県",
+    "city": "熊本市中央区",
+    "lat": 32.8046,
+    "lng": 130.7064,
+    "description": "阿蘇の牛乳を使ったジェラート屋さん。季節のフルーツの味が毎週変わります。",
+    "rating": 4.6,
+    "reviews": 95,
+    "wantCount": 29,
+    "tags": [
+      "テイクアウト",
+      "イートインあり"
+    ],
+    "ecoTags": [
+      "紙のスプーンを使っています"
+    ],
+    "reason": "冷凍庫は一年中止められません。それなら電気そのものを見直そうと決めました。",
+    "story": null,
+    "photo": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?auto=format&fit=crop&w=800&h=500&q=75",
+    "articleUrl": null,
+    "articles": [],
+    "isSample": true
+  }
+]
